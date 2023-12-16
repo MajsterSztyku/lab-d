@@ -1,1 +1,19 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  background: url("https://placehold.co/100x100/FFFFFF/EFEFEF/png?text=46460");
+}
+header{
+  background-color: blue;
+  font-size: large;
+  text-align:center;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+footer{
+  background-color: blue;
+  font-size: large;
+  text-align:center;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+
+}
